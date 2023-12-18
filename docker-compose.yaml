@@ -1,5 +1,5 @@
 services:
-  minecraft:
+  minecraft-endeavour:
     build:
       context: ./minecraft
     ports:
